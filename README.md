@@ -206,7 +206,7 @@ For complete details, please refer to the [LICENSE](LICENSE) file.
 
 **Onkar Shrikonda**
 
-AI & Data Science Engineer
+computer science engineer
 
 ---
 
