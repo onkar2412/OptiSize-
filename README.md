@@ -212,6 +212,6 @@ AI & Data Science Engineer
 
 ## Contact
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Email: your.email@example.com
+- GitHub: https://github.com/onkar2412
+- LinkedIn: https://www.linkedin.com/in/onkar-shrikonda/
+- Email: Shrikonda.onkar@gmail.com
