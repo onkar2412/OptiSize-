@@ -4,7 +4,7 @@
 
 ---
 
-## Description / Overview
+## Description 
 
 OptiSize is a Python-based computer vision project that estimates the user's distance from a webcam using facial landmark detection. Based on the measured distance, the application dynamically adjusts the displayed text size in real time, providing an improved reading experience and better accessibility.
 
@@ -193,7 +193,7 @@ This project is licensed under the MIT License. You are free to use, modify, and
 For complete details, please refer to the [LICENSE](LICENSE) file.
 ---
 
-## Credits / Acknowledgments
+## Credits 
 
 - OpenCV
 - MediaPipe
